@@ -3,7 +3,7 @@
 
 A simple game in 2D with Godot, created following the docummentation of the Godot website, link below
 
-A funny way to improve skills 
+### A funny way to improve skills 
 =======
 # Dodge the Creeps 2D assets
 
